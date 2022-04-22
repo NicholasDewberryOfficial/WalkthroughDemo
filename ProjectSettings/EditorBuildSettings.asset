@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BigHouseDemo.unity
+    guid: 2d1a8da3d8a89b54b8983356d7e6aebd
   m_configObjects: {}
